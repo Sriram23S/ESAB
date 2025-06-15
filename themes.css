@@ -1,0 +1,20 @@
+:root {
+    /* Primary / Secondary */
+    --bg-primary-header: #000;
+    --bg-primary-sidebar:#fbe400;
+    --bg-body-color:#fff;
+
+    /* Body Input controls */
+    --bg-body-input:#70777e;
+
+    /* font family */
+    --bg-font-family:"Roboto Slab", serif;
+    --bg-fonth1-color:#fbe400;
+    --eb-fontbg-headericon:#f4f4f4;
+
+    /* Side bar theme */
+    --es-sidebar-bg:#2d3548;
+
+    /* login form BG */
+    --es-login-bg:var(--bg-primary-sidebar);
+}
