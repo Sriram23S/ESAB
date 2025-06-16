@@ -2901,7 +2901,7 @@ button:disabled,
         flex-shrink: 1;
         margin: 0 0 6em 6em;
         position: relative;
-        width: calc(33.33333% - 6em);
+        width: calc(50% - 6em);
     }
 
         .posts article:before {
